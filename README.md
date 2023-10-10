@@ -1,0 +1,5 @@
+- 👋 Hi there
+- 👀 I’m interested in web development, machine learning, and open source projects.
+- 🌱 I’m currently learning JavaScript frameworks and data analysis.
+- 💞️ I’m looking to collaborate on innovative web applications and data science projects.
+- 📫 How to reach me: [clickme](https://github.com/bitBarden/bitBarden/issues/new)
